@@ -1,0 +1,16 @@
+1. Firstly, I have signed up for an account in macaddress.io to get the API key for mac address lookup.
+
+2. I have written python code to call the API token and output the program with the Vendor name of the Mac.
+
+3. I have downloaded docker on my Mac, Created the docker file and using the Python official image from Docker hub I have created an image called sravanthi123 to execute the python and successfully ran on mac. 
+
+Commands used for docker :
+
+1. mkdir DockerFiles
+2. vim dockerfile
+3. docker build -t sravanthi123 .
+4. docker images
+5. docker run "imageid"
+
+I have uploaded the program code and docker file to Github
+
